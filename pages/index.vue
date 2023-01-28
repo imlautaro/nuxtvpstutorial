@@ -6,6 +6,6 @@ useHead({
 
 <template>
 	<div>
-		<h1>Home page</h1>
+		<h1>Hello world!</h1>
 	</div>
 </template>
